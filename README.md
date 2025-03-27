@@ -4,3 +4,4 @@ You will be given a random snetence in either Toki Pona or English, and will att
 
 # Notes - Please read
 - "index.html" is the new name for "Practise Toki Pona.html" this is the file you are looking for for the offline copy of the web app 
+- There is now a live online version (here)[https://rubidiumcode.github.io/Practise-Toki-Pona-/], it is the exact same version as the file you can download
